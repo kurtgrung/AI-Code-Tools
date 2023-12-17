@@ -47,4 +47,7 @@ https://marketplace.visualstudio.com/items?itemName=AskCodi.askcodi-autocomplete
 Blackbox 🤖 🆓 <br>
 https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox
 
+ColaBOT 🤖 🆓 <br>
+https://marketplace.visualstudio.com/items?itemName=ColaBOT.colabot-vscode
+
 <!-- more to be added. -->
