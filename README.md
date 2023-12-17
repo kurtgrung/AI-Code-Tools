@@ -50,4 +50,9 @@ https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox
 ColaBOT 🤖 🆓 <br>
 https://marketplace.visualstudio.com/items?itemName=ColaBOT.colabot-vscode
 
+Machinet 🤖 🆓 <br>
+https://marketplace.visualstudio.com/items?itemName=MachineX.machinet-chatgpt <br>
+https://www.machinet.net/ <br>
+
+
 <!-- more to be added. -->
